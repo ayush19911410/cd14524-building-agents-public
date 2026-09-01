@@ -1,0 +1,10 @@
+# Ignore sensitive credential files
+.env
+config.env
+
+# Ignore python caching systems
+__pycache__/
+*.pyc
+
+# Ignore local Jupyter state checkpoints
+.ipynb_checkpoints/
